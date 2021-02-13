@@ -1,1 +1,1 @@
-test("THIS IS A DUMMY TEST",()=>{expect(1+1).toBe(2)})
+test("THIS IS A DUMMY TEST",()=>{expect(1+2).toBe(3)})
